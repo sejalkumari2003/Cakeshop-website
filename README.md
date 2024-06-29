@@ -1,2 +1,2 @@
-# Cakeshop-website
-Demo cake website for practice
+# Coffeeshop-website
+Demo coffee website for practice
